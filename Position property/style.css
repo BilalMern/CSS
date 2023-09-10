@@ -36,6 +36,25 @@ margin: 100px;
     height: 200px;
     width: 200px;
     border: 1px solid teal;
-    background-color: yellow;
+    background-color: green;
+    position: relative;
+    left: 100px;
 }
-    
+
+
+#child2{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    background-color: pink;
+position: absolute;
+top: 150px;
+}
+
+#child3{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: yellow;
+
+}
