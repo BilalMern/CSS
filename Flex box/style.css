@@ -1,0 +1,25 @@
+.main1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#para1{
+    border: 1px solid green;
+    color: white;
+    background-color: red;
+    font-weight: bolder;
+}
+
+#para2{
+    border: 1px solid green;
+    color: white;
+    background-color: red;
+    font-weight: bolder;
+}
+
+#para3{
+    border: 1px solid green;
+    color: white;
+    background-color: red;
+    font-weight: bolder;
+}
