@@ -30,5 +30,12 @@ margin: 100px;
     display: inline-block;
 margin: 100px;
     } */
+      /* =======***======= */
 
+#parent{
+    height: 200px;
+    width: 200px;
+    border: 1px solid teal;
+    background-color: yellow;
+}
     
