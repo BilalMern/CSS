@@ -63,7 +63,7 @@ align-content: flex-start;
     height: 150px;
     width: 150px;
     background-color: yellow;
-
+align-self: flex-end ;
 }
 
 .green{
@@ -71,6 +71,7 @@ align-content: flex-start;
     width: 150px;
     background-color: green;
    order: -1;
+   align-self: center;
 }
 
 .orange{
@@ -83,4 +84,7 @@ align-content: flex-start;
 .container{
     display: flex;
     justify-content: space-around;
+    
+    background-color: skyblue;
+    height: 600px;
 }
